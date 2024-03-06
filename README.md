@@ -1,1 +1,1 @@
-# nosql-challenge
+In this assignment, a MongoDB database named "uk_food" was set up with a collection called "establishments" containing data on food establishments' hygiene ratings. Modifications were made to the database including adding a new restaurant, updating information, and removing establishments in Dover. Exploratory analysis was conducted to answer specific questions about hygiene scores, ratings, and establishment locations in London.
